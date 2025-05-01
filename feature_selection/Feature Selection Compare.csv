@@ -1,0 +1,315 @@
+XGBoost,Random Forest,Select K Best
+accept,user_followers,user_favourites
+account,user_friends,vader
+address,user_favourites,accept
+affiliatemarketing,vader,ada
+airdrop,account,affiliatemarketing
+airdropdet,ada,airdrop
+airdropinspector,airdrop,airdropinspect
+airdrops,airdrops,airdropinspector
+airdropstario,altcoin,airdrops
+alert,altcoins,alert
+altcoin,altseason,altcoin
+altseason,amazing,altcoins
+amazon,amazon,altseason
+amc,amp,amc
+analysis,analysis,amp
+art,asset,ask
+ask,bank,aug
+ath,banks,avg
+aug,bch,awesome
+average,bear,axs
+avg,bearish,bch
+axs,believe,bears
+babydoge,best,binance
+bank,better,binancechain
+based,big,bitcoin
+bear,binance,blockchain
+bearish,binancesmartchain,bnb
+bears,bitcoin,bonus
+binancechain,bitcoinnews,bounty
+bitcoin,bitcoins,bsc
+bitcoinmining,blockchain,bscgem
+bitcoins,bnb,bscgems
+block,bought,btc
+bonus,break,btcusd
+bounty,bsc,btt
+bsc,bscgem,bullish
+bscgem,bscgems,cake
+bscgems,btc,card
+btc,btcusd,china
+btt,bull,coinbase
+cake,bullish,coinhuntworld
+card,business,compared
+change,buy,covid
+china,buying,covidvaccine
+code,cardano,crash
+coin,change,credit
+coinmarketcap,chart,crypto
+coins,check,cryptoart
+community,china,cryptocrash
+compared,close,cryptocurency
+covidvaccine,coin,cryptocurrencies
+crash,coinbase,cryptocurrency
+credit,coins,cryptonews
+cryptoart,come,cryptotrading
+cryptocrash,coming,cryptotwitter
+cryptocurency,community,current
+cryptonews,covid,czbinance
+cryptotwitter,covidvaccine,day
+current,crypto,deal
+czbinance,cryptocrash,defi
+days,cryptocurency,definitely
+defi,cryptocurrencies,deflectprotocol
+deflectprotocol,cryptocurrency,dip
+dip,cryptonews,distribution
+doge,cryptotrading,doge
+dogearmy,currency,dogecoin
+dogecoin,current,dot
+dot,czbinance,drop
+drop,daily,dropped
+early,day,earn
+earn,days,elon
+elon,defi,elonmusk
+elonmusk,deflectprotocol,eos
+entry,digital,eshop
+eshop,dip,eth
+etherium,doge,excellent
+exchange,dogearmy,exchange
+far,dogecoin,facebook
+fast,dollar,fast
+feg,dot,feg
+fegexv,drop,fegexv
+fegtoken,earn,fegtoken
+fegtokeniran,elon,fegtokeniran
+finance,elonmusk,finance
+financial,end,forex
+following,energy,future
+forex,eth,gem
+free,ethereum,gift
+freedom,exchange,giftideas
+futures,feg,gifts
+gain,fegtoken,goals
+game,fiat,going
+gem,finance,gold
+gifts,financial,good
+giveaway,fintech,great
+gmt,follow,hash
+goals,following,heco
+group,forex,hecochain
+happy,free,high
+hash,future,history
+heco,getting,hodl
+hecochain,giveaway,hope
+high,goes,hopefully
+history,going,hour
+hit,gold,hourly
+hodl,good,hours
+hold,got,iamfeg
+holding,great,increased
+hourly,green,info
+hours,guys,innovative
+huge,happy,instagram
+hunt,hard,invite
+iamfeg,heco,jack
+ico,help,join
+idea,high,kucoin
+important,history,large
+income,hit,launch
+increased,hodl,let
+inflation,hold,likely
+info,holding,linkedin
+instagram,hope,liquidity
+jack,hour,listed
+join,hours,litecoin
+kucoin,huge,location
+large,iamfeg,low
+learn,ico,ltc
+likely,inflation,makes
+linkedin,info,marketing
+liquidity,interesting,markets
+little,invest,meme
+location,investing,michaelsaylor
+love,investment,min
+makes,investors,miners
+marketing,jack,mining
+markets,join,money
+massive,july,moon
+matic,know,moving
+meme,large,musk
+michaelsaylor,learn,nextype
+million,let,olympicgames
+mined,level,olympics
+miners,life,opportunity
+miss,like,pair
+moon,link,pancakeswap
+musk,litecoin,pinterest
+near,live,playing
+nextype,long,plusar
+nft,look,pool
+nftart,looking,position
+nftartist,looks,potential
+nftcollector,lot,price
+nftcommunity,love,prices
+nfts,low,profits
+olympicgames,ltc,project
+olympics,make,projector
+open,market,promising
+pair,markets,pump
+pancakeswap,matic,read
+pay,michaelsaylor,reddit
+place,million,referral
+platform,miners,resistance
+pool,mining,results
+post,miss,reward
+potential,money,rewards
+presale,month,ripple
+prices,months,safemoon
+profit,moon,save
+profits,musk,share
+project,need,shibainu
+projector,network,shop
+projects,new,shopping
+pump,news,socialmedia
+reach,nft,solana
+read,nfts,soon
+ready,nice,stakes
+real,olympicgames,stop
+referral,olympics,strong
+resistance,open,supply
+retweet,opportunity,surveyj
+rewards,pancakeswap,team
+ripple,pay,telegram
+safemoon,people,tesla
+sale,platform,tiktok
+save,potential,tokyo
+send,power,total
+share,price,trading
+shib,prices,transaction
+shiba,profit,trend
+shibainu,profits,tron
+shibarmy,project,trx
+shop,pump,twitter
+shopping,read,uniswap
+sign,ready,unknown
+signal,real,update
+signals,really,usd
+solana,resistance,user
+sold,right,utc
+soon,ripple,valued
+start,run,vault
+stock,safemoon,vet
+stockmarket,said,volume
+successful,say,wallet
+super,says,whalealert
+supply,sell,wonderful
+surveyj,selling,worth
+target,send,xlm
+tech,shib,xom
+technology,shiba,xrp
+telegram,short,yieldfarming
+tesla,signal,youtube
+things,solana,affiliatemarketing bitcoin
+tiktok,soon,airdrop airdrops
+tips,start,airdrop binance
+token,stock,airdrop bitcoin
+tokyo,stocks,airdrop bounty
+trader,stop,airdrop bsc
+trend,strong,airdrops airdropinspector
+trending,success,airdrops binancechain
+tron,supply,airdrops bitcoin
+true,support,awesome cryptocurrency
+trx,target,binance bitcoin
+tweets,team,binancechain btc
+twitter,technology,binancesmartchain bsc
+uniswap,telegram,bitcoin airdrop
+unknown,term,bitcoin binance
+usd,tesla,bitcoin blockchain
+usdt,thank,bitcoin btc
+used,thanks,bitcoin crypto
+utc,thing,bitcoin cryptocurrency
+vet,things,bitcoin dogecoin
+wait,think,bitcoin eth
+want,time,bitcoin mining
+wealth,today,bitcoin pancakeswap
+week,token,bitcoin price
+weekly,tokyo,bitcoin user
+weeks,trade,blockchain bitcoin
+whalealert,trading,blockchain btc
+whales,transaction,bnb bitcoin
+win,trx,bnb btc
+worth,tweet,bsc airdrops
+xlm,twitter,bsc bitcoin
+yieldfarming,understand,bsc bnb
+affiliatemarketing bitcoin,update,btc binance
+airdrop airdrops,usd,btc binancesmartchain
+airdrop binance,usdt,btc bitcoin
+airdrop bitcoin,use,btc bnb
+airdrop bounty,using,btc btc
+airdrop bsc,value,btc crypto
+airdrops airdropinspector,volume,btc cryptocurrency
+airdrops bitcoin,wait,btc eth
+awesome cryptocurrency,wallet,btc ethereum
+binance bitcoin,want,btc moon
+binancechain btc,watch,btc price
+binancesmartchain bsc,way,btc usd
+bitcoin airdrop,week,buy bitcoin
+bitcoin binance,weekly,coinhuntworld awesome
+bitcoin blockchain,whales,crypto blockchain
+bitcoin bnb,win,crypto btc
+bitcoin dogecoin,work,crypto cryptocurrency
+bitcoin eth,world,crypto exchange
+bitcoin ethereum,worth,cryptocurrency bitcoin
+bitcoin pancakeswap,xrp,cryptocurrency blockchain
+bitcoin signals,year,cryptocurrency btc
+blockchain bitcoin,years,cryptocurrency crypto
+blockchain btc,yieldfarming,cryptocurrency defi
+blockchain crypto,youtube,current price
+bnb bitcoin,airdrops bitcoin,day moving
+bnb bsc,binance bitcoin,deal gift
+bnb btc,binancesmartchain bsc,defi btc
+bsc airdrops,bitcoin airdrop,distribution date
+bsc binancesmartchain,bitcoin bitcoin,dogecoin bitcoin
+bsc bitcoin,bitcoin blockchain,eth airdrop
+bsc bnb,bitcoin bnb,eth btc
+btc binance,bitcoin btc,eth ethereum
+btc binancesmartchain,bitcoin crypto,eth xrp
+btc bnb,bitcoin cryptocurrency,ethereum eth
+btc crypto,bitcoin eth,facebook instagram
+btc ethereum,bitcoin ethereum,gift gifts
+btc moon,bitcoin pancakeswap,giftideas shop
+btc price,bitcoin price,gifts giftideas
+btc usd,blockchain bitcoin,good project
+crypto bitcoin,blockchain btc,high day
+crypto blockchain,bnb bitcoin,hope project
+crypto btc,bnb bsc,hopefully project
+crypto exchange,bsc binancesmartchain,invite distribution
+cryptocurrency bitcoin,bsc bitcoin,join playing
+cryptocurrency blockchain,bsc bnb,linkedin twitter
+cryptocurrency btc,btc bitcoin,location join
+cryptocurrency defi,btc bnb,low year
+current price,btc btc,moving avg
+distribution date,btc crypto,pinterest dogecoin
+eth airdrop,btc cryptocurrency,playing coinhuntworld
+eth bitcoin,btc eth,price bitcoin
+eth bnb,btc ethereum,referral stakes
+eth btc,btc moon,shop shopping
+ethereum bitcoin,btc price,shopping affiliatemarketing
+ethereum btc,buy bitcoin,short position
+ethereum crypto,crypto bitcoin,socialmedia pinterest
+high day,crypto blockchain,stakes invite
+hope project,crypto btc,stakes stakes
+location join,crypto cryptocurrency,twitter facebook
+market cap,cryptocurrency bitcoin,unknown wallet
+pinterest dogecoin,cryptocurrency blockchain,user vault
+playing coinhuntworld,cryptocurrency crypto,vault location
+position entry,eth btc,yieldfarming airdrop
+price usd,ethereum bitcoin,topic_0
+referral stakes,ethereum eth,topic_1
+stakes invite,good project,topic_2
+stop binance,stakes stakes,topic_3
+unknown wallet,topic_0,topic_4
+vault location,topic_1,
+yieldfarming airdrop,topic_2,
+topic_3,topic_3,
+topic_4,topic_4,
